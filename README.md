@@ -1,9 +1,14 @@
-## Battleship Workshop
+# Battleship Workshop
 
-## Trello Board for stories
+### Trello Board for stories
 
 https://trello.com/invite/b/xQo57otf/613d0a7096887f43b71dd72b407df615/battleship-workshop
 
+
+### Getting up and Running
+Prior to running yarn start please run:
+
+### `yarn install`
 
 ## Available Scripts
 
