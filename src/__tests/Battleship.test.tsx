@@ -1,5 +1,5 @@
 import React from "react";
-import {BattleShip} from "../BattleShip";
+import {BattleShip} from "../components/BattleShip";
 import {fireEvent,render, screen} from "@testing-library/react";
 
 
@@ -21,7 +21,8 @@ describe('Battleship', () => {
 
     fireEvent.click(screen.getByRole('button', {name: /one player/i}))
 
-
+    expect(screen.queryByRole('button', {name:/one player/i})).not.toBeInTheDocument()
+    expect(screen.getByText('make me a game')).toBeVisible()
   });
 
 })

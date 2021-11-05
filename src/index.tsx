@@ -1,23 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import {BattleShip} from './BattleShip';
-import {Routes} from "./Routes";
-import {Route, BrowserRouter as Router, Switch} from "react-router-dom";
-import {Game} from "./Game";
+import {BattleShip} from './components/BattleShip';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
-      <Switch>
-        <Route exact path={Routes.Home}>
-          <BattleShip/>
-        </Route>
-        <Route path={Routes.Game}>
-          <Game/>
-        </Route>
-      </Switch>
-    </Router>
+    <BattleShip/>
   </React.StrictMode>,
   document.getElementById('root')
 );
