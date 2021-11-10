@@ -27,3 +27,7 @@ This first story in level one starts after you have your server up and running.
 The server will have a splashscreen with a one player button that takes you to the "Game" component where you will begin
 building your game. 
 
+### Example tests
+
+There are some basic example tests for the splashscreen to help get you started.
+
