@@ -4,9 +4,14 @@
 
 Open the following trello board for stories:
 
+Once on the trello board click on "Show menu" on the right-hand side.
+
+Click more in the "Show menu"
+
+Click copy board to your own trello workspace.
+
 https://trello.com/invite/b/xQo57otf/613d0a7096887f43b71dd72b407df615/battleship-workshop
 
-Once on the trello board click on "Show menu" on the right-hand side and click copy board to your own trello workspace.
 
 ### Getting the project up and Running
 
