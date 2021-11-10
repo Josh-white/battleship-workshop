@@ -2,37 +2,28 @@
 
 ### Trello Board for stories
 
+Open the following trello board for stories:
+
 https://trello.com/invite/b/xQo57otf/613d0a7096887f43b71dd72b407df615/battleship-workshop
 
+Once on the trello board click on "Show menu" on the right-hand side and click copy board to your own trello workspace.
 
-### Getting up and Running
+### Getting the project up and Running
+
 Prior to running yarn start please run:
 
 ### `yarn install`
 
-## Available Scripts
-
-In the project directory, you can run:
+Then run
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Starting your first story
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Stories will be completed by level. Starting at level 1.
 
-### `yarn test`
+This first story in level one starts after you have your server up and running.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The server will have a splashscreen with a one player button that takes you to the "Game" component where you will begin
+building your game. 
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.

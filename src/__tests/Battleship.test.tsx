@@ -3,7 +3,6 @@ import {BattleShip} from "../components/BattleShip";
 import {fireEvent,render, screen} from "@testing-library/react";
 
 
-
 describe('Battleship', () => {
   it('should contain a background image', () => {
     render(<BattleShip/>)
