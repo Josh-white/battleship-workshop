@@ -10,7 +10,7 @@ Click more in the "Show menu"
 
 Click copy board to your own trello workspace.
 
-https://trello.com/invite/b/xQo57otf/613d0a7096887f43b71dd72b407df615/battleship-workshop
+https://trello.com/invite/b/xQo57otf/ATTI0e2457748500c12b9d5c2f94aece796eF72ED9FF/battleship-workshop
 
 
 ### Getting the project up and Running
